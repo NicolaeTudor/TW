@@ -1,0 +1,338 @@
+body, input[type="text"], input[type="email"], input[type="tel"],
+input[type="url"], input[type="password"], textarea,
+input[type="submit"] {
+  font-family: 'Lato', Arial, sans-serif;
+}
+
+input[type="text"], input[type="url"], input[type="email"], input[type="tel"], input[type="password"], textarea {
+  font-size: 16px;
+  font-size: 1.6rem;
+}
+
+body {
+    margin: 0;
+}
+
+main {
+    display: block;
+    flex-direction: column;
+    height: 90vh;
+}
+
+header, section, footer, nav {
+    padding: 8px;
+}
+
+section {
+    height: 100%;
+    background: silver;
+}
+
+.content-box{
+    margin-top: 20px;
+    height: 100%;
+}
+
+nav {
+    overflow: hidden;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.nav-item {
+    text-decoration-style: solid;
+    display:inline-block;
+    margin:8px;
+    border:1px;
+    border-color: black;
+}
+
+.fridgeSpace {
+    overflow: scroll;
+    background-color: white;
+    position: fixed;
+    top: 40px;
+    float: right;
+    width: 30%;
+    height: calc(100% - 40px);
+}
+
+.hideSpace {
+    display: none;
+}
+
+@media only screen and (max-width: 768px){
+    .grocerySpace{
+        display: grid;
+        grid-template-columns:  100fr;
+        grid-template-rows: 100fr;
+        background-color: #2196F3;
+        padding: 0;
+        max-width:100%;
+        height: max-content;
+        overflow-y: scroll;
+    }
+
+    .groceryListSection{
+        grid-column-start: 1;
+        text-align: center;
+    }
+
+    .groceryList{
+        list-style-type: none;
+    }
+
+    .recipeSpace{
+        display: grid;
+        grid-template-columns:  100fr;
+        grid-template-rows:  300px 300px 300px 300px 300px 300px 300px 300px 300px 300px;
+        background-color:  #2196F3;
+        height: 100%;
+        top: 40px;
+        position: relative; 
+        padding: 16px;
+        max-width:100%;
+        height: max-content;
+        overflow-y: scroll;
+    }
+
+    .recipeSection{
+        background-color: coral;
+        margin: 8px;
+        display:flex;
+        height: 288px;
+        padding: 0px;
+    }
+
+
+    .recipePhoto{
+        object-fit: cover;
+        width:40%;
+        float: left;
+    }
+
+    .recipeText{
+        width: 60%;
+        text-align: center;
+    }
+
+    .recipeTitle{
+        font-weight: bolder;
+        font-size: 2em;
+        display:block;
+    }
+
+    .recipeAuthor{
+        font-weight: bold;
+        font-size: 1.2em;
+        display:block;
+    }
+
+    .recipeFullBtn{
+        float: inline-end;
+    }
+}
+
+@media only screen and (min-width: 768px){
+    .grocerySpace{
+        display: grid;
+        grid-template-columns:  auto 50% auto;
+        grid-template-rows: 100fr;
+        height: 100%;
+        background-color: #2196F3;  
+        max-width:100%;
+        overflow-y: scroll;
+    }
+
+    .groceryListSection{
+        background-color: coral;
+        grid-column-start: 2;
+        text-align: center;
+    }
+
+    .groceryList{
+        list-style-type: none;
+    }
+
+    .recipeSpace{
+        display: grid;
+        grid-template-columns:  50fr 50fr;
+        grid-template-rows:  300px 300px 300px 300px 300px;
+        background-color: #2196F3;
+        height: 100%;
+        top: 40px;
+        position: relative; 
+        padding: 10px;
+        max-width:100%;
+        height: max-content;
+        overflow-y: scroll;
+    }
+
+    .recipeSection{
+        background-color: coral;
+        margin: 8px;
+        display:flex;
+        height: 288px;
+        padding: 0px;
+    }
+
+
+    .recipePhoto{
+        object-fit: cover;
+        width:40%;
+        float: left;
+    }
+
+    .recipeText{
+        width: 60%;
+        text-align: center;
+    }
+
+    .recipeTitle{
+        font-weight: bolder;
+        font-size: 2em;
+        display:block;
+    }
+
+    .recipeAuthor{
+        font-weight: bold;
+        font-size: 1.2em;
+        display:block;
+    }
+
+    .recipeFullBtn{
+        float: inline-end;
+    }
+}
+
+.gameSpace {
+    background-color: white;
+    height: 100%;
+    top: 40px;
+    position: relative; 
+    padding: 10px;
+    max-width:100%;
+}
+
+#gameDiv {
+    top: 40px;
+    position: absolute; 
+    height: 484px;
+    width: 768px;
+}
+
+#gameboard {
+    height: 384px;
+    width: 100%;
+    background-color: palegoldenrod;
+    position: relative;
+    color: maroon;
+    font-weight: bold;
+    font-size: 1.5em;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#gameBoard > * {
+    margin: 8px;
+}
+
+#gameMenu {
+    height: 100px;
+    width: 100%;
+    background-color: purple;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#gameMenu>*{
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#gameMenu * {
+    color: snow;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+#selectChampionDiv > * {
+    display: inline-block;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#selectedChampion {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.collectibleItem {
+    display: block;
+    position: absolute;
+    height: 32px;
+    width: 32px;
+    background: url('../images/foodsprites.png') 0px 0px;
+}
+
+.character {
+    height: 64px;
+    width: 64px;
+    background: url('../images/lolchampssprites.png') 320px 0px;
+}
+
+.swap {
+    background: transparent;
+    outline: none;
+    border: none;
+}
+
+.swap :hover {
+    cursor: pointer;
+}
+
+#player {
+    display: block;
+    position: absolute;
+    top: 160px;
+    left: 352px;   
+}
+
+.flip {
+    transform: scaleX(-1);
+}
+
+#highScoresArea {
+    top: 40px;
+    right: 0px;
+    position: absolute; 
+    height: 484px;
+    width: 556px;
+}
+
+#highScoresMenu > *{
+    margin-right: 3px;
+}
+
+.highscore {
+    display:flex;
+    justify-content:space-evenly;
+}
+
+.highscore > * {
+    flex:1 1 50%;
+}
+
+#fortuneCookie {
+    float: right;
+    font-weight: bold;
+    margin-right: 20px;
+}

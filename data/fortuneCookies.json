@@ -1,0 +1,18 @@
+[
+    {
+        "prediction": "Have you tried ",
+        "punctuation": "?"
+    },
+    {
+        "prediction": "I bet you will love ",
+        "punctuation": "!"
+    },
+    {
+        "prediction": "You need to make ",
+        "punctuation": "!"
+    },
+    {
+        "prediction": "Don't miss out on the best ",
+        "punctuation": "!"
+    }
+]

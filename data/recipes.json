@@ -1,0 +1,644 @@
+[
+    {
+        "recipeId": 1,
+        "title": "Grilled Pork Shoulder Steaks With Herb Salad",
+        "author": "Andy Baraghani",
+        "image": "https://assets.bonappetit.com/photos/5e90a1c5afb1580009157085/16:9/w_1028,c_limit/OJAI-Grilled-Pork-Shoulder-Steaks-Herb-Salad.jpg",
+        "mini_description": "These sticky-salty-sweet pork steaks are a new summer grilling staple.",
+        "full_description": "Don’t go for perfect grill marks here. Flip the steaks often so the fat renders evenly without overcooking the meat. And don’t sleep on that herb salad—it brings some freshness to the sticky-salty-sweet steaks.",
+        "ingredients": [
+            {
+                "productName": "shallots",
+                "qty": 4,
+                "productId": 6,
+                "productHash": 2222027353336966
+            },
+            {
+                "productName": "garlic cloves",
+                "qty": 6,
+                "productId": 9,
+                "productHash": 1980625868581449
+            },
+            {
+                "productName": "fish sauce",
+                "qty": 3,
+                "productId": 10,
+                "productHash": 2369860331341413
+            },
+            {
+                "productName": "lime",
+                "qty": 3,
+                "productId": 11,
+                "productHash": 5868182315468616
+            },
+            {
+                "productName": "brown sugar",
+                "qty": "3",
+                "productId": 12,
+                "productHash": 8134822373408714
+            },
+            {
+                "productName": "pork shoulder steaks",
+                "qty": "8",
+                "productId": 13,
+                "productHash": 2634516973666151
+            },
+            {
+                "productName": "chiles",
+                "qty": "2",
+                "productId": 14,
+                "productHash": 6994801097847097
+            },
+            {
+                "productName": "basil leaves",
+                "qty": "6",
+                "productId": 15,
+                "productHash": 5683543268061328
+            }
+        ],
+        "steps": [
+            "Blend chopped shallots, garlic, ⅓ cup fish sauce, ⅓ cup lime juice, and 2 Tbsp. brown sugar in a blender until smooth.",
+            "Season steaks lightly with salt (the fish sauce will also season the steaks). Transfer to a large bowl or a baking dish. Pour marinade over and turn steaks with tongs to coat evenly. Let sit at room temperature 1 hour, or cover and chill up to 12 hours, turning once (halfway through if you can).",
+            "Preheat a grill to high heat. Grill steaks, turning every minute or 2, until lightly charred and crisp and an instant-read thermometer inserted into the thickest part registers 140°, 7–9 minutes. Transfer steaks to a cutting board and let rest at least 5 minutes before thinly slicing.",
+            "Meanwhile, mix chiles, remaining 3 Tbsp. fish sauce, remaining 3 Tbsp. lime juice, remaining 1 Tbsp. brown sugar, and 1 Tbsp. water in a large bowl to combine. Add sliced shallots and herbs and toss to coat; season lightly with salt.",
+            "Arrange sliced meat on a platter and scatter herb salad over."
+        ]
+    },
+    {
+        "recipeId": 2,
+        "title": "Cod With Soy-Caramelized Onions and Potatoes",
+        "author": "Chris Morocco",
+        "image": "https://assets.bonappetit.com/photos/5ebee6f3f2041cda3970ba9c/16:9/w_1024,c_limit/HLY-Skillet-Fish-16x9.jpg",
+        "mini_description": "Adding ginger and soy sauce to caramelized onions gives a bit of zingy punch and intrigue, creating a multidimensional meal that comes together in just one skillet.",
+        "full_description": "Adding ginger and soy sauce to caramelized onions gives a bit of zingy punch and intrigue, creating a multidimensional meal that comes together in just one skillet. Covering the onions briefly during the beginning of the cooking process helps them break down more quickly—a baking sheet will work if you don’t have a lid!",
+        "ingredients": [
+            {
+                "productName": "olive oil",
+                "qty": 3,
+                "productId": 6,
+                "productHash": 242808870308171
+            },
+            {
+                "productName": "onions",
+                "qty": 2,
+                "productId": 9,
+                "productHash": 7227241315197063
+            },
+            {
+                "productName": "ginger",
+                "qty": 1,
+                "productId": 10,
+                "productHash": 8428138217357581
+            },
+            {
+                "productName": "soy sauce",
+                "qty": 2,
+                "productId": 11,
+                "productHash": 1829651956510869
+            },
+            {
+                "productName": "potato",
+                "qty": 1,
+                "productId": 12,
+                "productHash": 6024591264120390
+            },
+            {
+                "productName": "cod",
+                "qty": 2,
+                "productId": 13,
+                "productHash": 6313294006416254
+            },
+            {
+                "productName": "scallions",
+                "qty": 2,
+                "productId": 14,
+                "productHash": 7718552974416585
+            },
+            {
+                "productName": "furikake",
+                "qty": 4,
+                "productId": 15,
+                "productHash": 2313670393605272
+            }
+        ],
+        "steps": [
+            "Heat 2 Tbsp. oil in a large skillet over medium. Add onions, season with salt, and cover. Cook, uncovering and stirring occasionally, until onions are softened and just beginning to take on color, about 5 minutes. Uncover, add ginger, and cook, stirring occasionally, until onions are jammy and golden brown, 10–12 minutes. Stir in soy sauce. Transfer onion mixture to a plate and wipe out skillet.",
+            "Pour remaining 1 Tbsp. oil into same skillet and increase heat to medium-high. Add potatoes in a single layer and season with salt. Cook, turning halfway through, until golden brown, 10–12 minutes.",
+            "Spread onion mixture over potatoes, leaving a 1\" border of potatoes without onion mixture. Season fish with salt and place on top of onion mixture. Cover and reduce heat to medium-low. Cook until fish is opaque throughout and easily flakes apart, 10–12 minutes. Serve topped with scallions and furikake (if using)."
+        ]
+    },
+    {
+        "recipeId": 3,
+        "title": "Braised Oxtails With Coconut Rice",
+        "author": "Kwame Onwuachi",
+        "image": "https://assets.bonappetit.com/photos/5eab53c6eee08767a7c6ab62/16:9/w_1028,c_limit/Kwame-Braised-Oxtails.jpg",
+        "mini_description": "Spoon-tender meat, silky beans, and sweet, sticky rice give this Jamaican dish the equivalent feel of a “warm hug,” according to chef Kwame Onwuachi.",
+        "full_description": "“A bowl of oxtails is like a warm hug from my childhood,” says chef Kwame Onwuachi of Kith/Kin restaurant in D.C. “It’s my favorite Jamaican dish, and a good reminder of how complex and flavorful our food is.” Don’t rule out this recipe just because you can’t find oxtails. Any fatty and rich bone-in braising cut, from short ribs to duck legs, would be a great substitute; just be prepared to shorten the cook time.",
+        "ingredients": [
+            {
+                "productName": "oxtails",
+                "qty": "2",
+                "productId": 1,
+                "productHash": 4469150791069924
+            },
+            {
+                "productName": "curry",
+                "qty": "2",
+                "productId": 2,
+                "productHash": 286044057660412
+            },
+            {
+                "productName": "oil",
+                "qty": "2",
+                "productId": 3,
+                "productHash": 4523193436840809
+            },
+            {
+                "productName": "chiken broth",
+                "qty": "4",
+                "productId": 4,
+                "productHash": 1809843714494508
+            },
+            {
+                "productName": "scallions",
+                "qty": "1",
+                "productId": 5,
+                "productHash": 7718552974416585
+            },
+            {
+                "productName": "garlic",
+                "qty": "3",
+                "productId": 6,
+                "productHash": 5671161195295897
+            },
+            {
+                "productName": "brown sugar",
+                "qty": "4",
+                "productId": 7,
+                "productHash": 8134822373408714
+            },
+            {
+                "productName": "peas",
+                "qty": "3",
+                "productId": 8,
+                "productHash": 5138703893952127
+            }
+        ],
+        "steps": [
+            "Blend chopped shallots, garlic, ⅓ cup fish sauce, ⅓ cup lime juice, and 2 Tbsp. brown sugar in a blender until smooth.",
+            "Season steaks lightly with salt (the fish sauce will also season the steaks). Transfer to a large bowl or a baking dish. Pour marinade over and turn steaks with tongs to coat evenly. Let sit at room temperature 1 hour, or cover and chill up to 12 hours, turning once (halfway through if you can).",
+            "Preheat a grill to high heat. Grill steaks, turning every minute or 2, until lightly charred and crisp and an instant-read thermometer inserted into the thickest part registers 140°, 7–9 minutes. Transfer steaks to a cutting board and let rest at least 5 minutes before thinly slicing.",
+            "Meanwhile, mix chiles, remaining 3 Tbsp. fish sauce, remaining 3 Tbsp. lime juice, remaining 1 Tbsp. brown sugar, and 1 Tbsp. water in a large bowl to combine. Add sliced shallots and herbs and toss to coat; season lightly with salt.",
+            "Arrange sliced meat on a platter and scatter herb salad over."
+        ]
+    },
+    {
+        "recipeId": 4,
+        "title": "Bulgogi Meatloaf Sandwich",
+        "author": "Chris Morocco",
+        "image": "https://assets.bonappetit.com/photos/5eb9a107cc3f5a6f2266b245/16:9/w_1024,c_limit/Bulgogi-Meatloaf-Sandwich-Recipe-lede-NEW.jpg",
+        "mini_description": "A flavor-packed spicy, sweet, and sour sandwich that takes the idea of meatloaf all the way to the edge.",
+        "full_description": "We thought about just how much flavor we could pack into meatloaf. The result: We took the ingredients you might often find in bulgogi marinade and used them to create a spicy, sweet, and sour combination that takes this sandwich right to the edge.",
+        "ingredients": [
+            {
+                "productName": "oil",
+                "qty": "2",
+                "productId": 1,
+                "productHash": 4523193436840809
+            },
+            {
+                "productName": "eggs",
+                "qty": "2",
+                "productId": 2,
+                "productHash": 7677450090393554
+            },
+            {
+                "productName": "apple",
+                "qty": "1",
+                "productId": 3,
+                "productHash": 2006698009046918
+            },
+            {
+                "productName": "scallions",
+                "qty": "6",
+                "productId": 4,
+                "productHash": 7718552974416585
+            },
+            {
+                "productName": "garlic cloves",
+                "qty": "4",
+                "productId": 5,
+                "productHash": 1980625868581449
+            },
+            {
+                "productName": "ginger",
+                "qty": "1",
+                "productId": 6,
+                "productHash": 8428138217357581
+            },
+            {
+                "productName": "gochugaru",
+                "qty": "2",
+                "productId": 7,
+                "productHash": 8544862591005535
+            },
+            {
+                "productName": "soy sauce",
+                "qty": "1",
+                "productId": 8,
+                "productHash": 1829651956510869
+            },
+            {
+                "productName": "panko",
+                "qty": "2",
+                "productId": 9,
+                "productHash": 3864328872277759
+            }
+        ],
+        "steps": [
+            "Heat 2 Tbsp. oil in a large skillet over medium. Add onions, season with salt, and cover. Cook, uncovering and stirring occasionally, until onions are softened and just beginning to take on color, about 5 minutes. Uncover, add ginger, and cook, stirring occasionally, until onions are jammy and golden brown, 10–12 minutes. Stir in soy sauce. Transfer onion mixture to a plate and wipe out skillet.",
+            "Pour remaining 1 Tbsp. oil into same skillet and increase heat to medium-high. Add potatoes in a single layer and season with salt. Cook, turning halfway through, until golden brown, 10–12 minutes.",
+            "Spread onion mixture over potatoes, leaving a 1\" border of potatoes without onion mixture. Season fish with salt and place on top of onion mixture. Cover and reduce heat to medium-low. Cook until fish is opaque throughout and easily flakes apart, 10–12 minutes. Serve topped with scallions and furikake (if using)."
+        ]
+    },
+    {
+        "recipeId": 5,
+        "title": "Spring Panzanella",
+        "author": "Molly Baz",
+        "image": "https://assets.bonappetit.com/photos/5e9dd45246b6ce0009fd8621/16:9/w_1024,c_limit/Spring-Panzanella-Salad-3.jpg",
+        "mini_description": "This herbaceous, crunchy, green riff on the iconic bread and tomato salad features all of our favorite spring vegetables, plus a tangy buttermilk dressing.",
+        "full_description": "Don’t go for perfect grill marks here. Flip the steaks often so the fat renders evenly without overcooking the meat. And don’t sleep on that herb salad—it brings some freshness to the sticky-salty-sweet steaks.",
+        "ingredients": [
+            {
+                "productName": "garlic clove",
+                "qty": "1",
+                "productId": 1,
+                "productHash": 2410433425968939
+            },
+            {
+                "productName": "lemons",
+                "qty": "2",
+                "productId": 2,
+                "productHash": 5054391423761529
+            },
+            {
+                "productName": "buttermilk",
+                "qty": "2",
+                "productId": 3,
+                "productHash": 7921250955523607
+            },
+            {
+                "productName": "cucumber",
+                "qty": "1",
+                "productId": 4,
+                "productHash": 2571904277860676
+            },
+            {
+                "productName": "scallions",
+                "qty": "4",
+                "productId": 5,
+                "productHash": 7718552974416585
+            },
+            {
+                "productName": "peas",
+                "qty": "6",
+                "productId": 6,
+                "productHash": 5138703893952127
+            },
+            {
+                "productName": "feta",
+                "qty": "4",
+                "productId": 7,
+                "productHash": 2944502221244220
+            }
+        ],
+        "steps": [
+            "Blend chopped shallots, garlic, ⅓ cup fish sauce, ⅓ cup lime juice, and 2 Tbsp. brown sugar in a blender until smooth.",
+            "Season steaks lightly with salt (the fish sauce will also season the steaks). Transfer to a large bowl or a baking dish. Pour marinade over and turn steaks with tongs to coat evenly. Let sit at room temperature 1 hour, or cover and chill up to 12 hours, turning once (halfway through if you can).",
+            "Preheat a grill to high heat. Grill steaks, turning every minute or 2, until lightly charred and crisp and an instant-read thermometer inserted into the thickest part registers 140°, 7–9 minutes. Transfer steaks to a cutting board and let rest at least 5 minutes before thinly slicing.",
+            "Meanwhile, mix chiles, remaining 3 Tbsp. fish sauce, remaining 3 Tbsp. lime juice, remaining 1 Tbsp. brown sugar, and 1 Tbsp. water in a large bowl to combine. Add sliced shallots and herbs and toss to coat; season lightly with salt.",
+            "Arrange sliced meat on a platter and scatter herb salad over."
+        ]
+    },
+    {
+        "recipeId": 6,
+        "title": "Grilled Pork Shoulder Steaks With Herb Salad",
+        "author": "Andy Baraghani",
+        "image": "https://assets.bonappetit.com/photos/5e90a1c5afb1580009157085/16:9/w_1028,c_limit/OJAI-Grilled-Pork-Shoulder-Steaks-Herb-Salad.jpg",
+        "mini_description": "These sticky-salty-sweet pork steaks are a new summer grilling staple.",
+        "full_description": "Don’t go for perfect grill marks here. Flip the steaks often so the fat renders evenly without overcooking the meat. And don’t sleep on that herb salad—it brings some freshness to the sticky-salty-sweet steaks.",
+        "ingredients": [
+            {
+                "productName": "shallots",
+                "qty": 4,
+                "productId": 6,
+                "productHash": 2222027353336966
+            },
+            {
+                "productName": "garlic cloves",
+                "qty": 6,
+                "productId": 9,
+                "productHash": 1980625868581449
+            },
+            {
+                "productName": "fish sauce",
+                "qty": 3,
+                "productId": 10,
+                "productHash": 2369860331341413
+            },
+            {
+                "productName": "lime",
+                "qty": 3,
+                "productId": 11,
+                "productHash": 5868182315468616
+            },
+            {
+                "productName": "brown sugar",
+                "qty": "3",
+                "productId": 12,
+                "productHash": 8134822373408714
+            },
+            {
+                "productName": "pork shoulder steaks",
+                "qty": "8",
+                "productId": 13,
+                "productHash": 2634516973666151
+            },
+            {
+                "productName": "chiles",
+                "qty": "2",
+                "productId": 14,
+                "productHash": 6994801097847097
+            },
+            {
+                "productName": "basil leaves",
+                "qty": "6",
+                "productId": 15,
+                "productHash": 5683543268061328
+            }
+        ],
+        "steps": [
+            "Blend chopped shallots, garlic, ⅓ cup fish sauce, ⅓ cup lime juice, and 2 Tbsp. brown sugar in a blender until smooth.",
+            "Season steaks lightly with salt (the fish sauce will also season the steaks). Transfer to a large bowl or a baking dish. Pour marinade over and turn steaks with tongs to coat evenly. Let sit at room temperature 1 hour, or cover and chill up to 12 hours, turning once (halfway through if you can).",
+            "Preheat a grill to high heat. Grill steaks, turning every minute or 2, until lightly charred and crisp and an instant-read thermometer inserted into the thickest part registers 140°, 7–9 minutes. Transfer steaks to a cutting board and let rest at least 5 minutes before thinly slicing.",
+            "Meanwhile, mix chiles, remaining 3 Tbsp. fish sauce, remaining 3 Tbsp. lime juice, remaining 1 Tbsp. brown sugar, and 1 Tbsp. water in a large bowl to combine. Add sliced shallots and herbs and toss to coat; season lightly with salt.",
+            "Arrange sliced meat on a platter and scatter herb salad over."
+        ]
+    },
+    {
+        "recipeId": 7,
+        "title": "Cod With Soy-Caramelized Onions and Potatoes",
+        "author": "Chris Morocco",
+        "image": "https://assets.bonappetit.com/photos/5ebee6f3f2041cda3970ba9c/16:9/w_1024,c_limit/HLY-Skillet-Fish-16x9.jpg",
+        "mini_description": "Adding ginger and soy sauce to caramelized onions gives a bit of zingy punch and intrigue, creating a multidimensional meal that comes together in just one skillet.",
+        "full_description": "Adding ginger and soy sauce to caramelized onions gives a bit of zingy punch and intrigue, creating a multidimensional meal that comes together in just one skillet. Covering the onions briefly during the beginning of the cooking process helps them break down more quickly—a baking sheet will work if you don’t have a lid!",
+        "ingredients": [
+            {
+                "productName": "olive oil",
+                "qty": 3,
+                "productId": 6,
+                "productHash": 242808870308171
+            },
+            {
+                "productName": "onions",
+                "qty": 2,
+                "productId": 9,
+                "productHash": 7227241315197063
+            },
+            {
+                "productName": "ginger",
+                "qty": 1,
+                "productId": 10,
+                "productHash": 8428138217357581
+            },
+            {
+                "productName": "soy sauce",
+                "qty": 2,
+                "productId": 11,
+                "productHash": 1829651956510869
+            },
+            {
+                "productName": "potato",
+                "qty": 1,
+                "productId": 12,
+                "productHash": 6024591264120390
+            },
+            {
+                "productName": "cod",
+                "qty": 2,
+                "productId": 13,
+                "productHash": 6313294006416254
+            },
+            {
+                "productName": "scallions",
+                "qty": 2,
+                "productId": 14,
+                "productHash": 7718552974416585
+            },
+            {
+                "productName": "furikake",
+                "qty": 4,
+                "productId": 15,
+                "productHash": 2313670393605272
+            }
+        ],
+        "steps": [
+            "Heat 2 Tbsp. oil in a large skillet over medium. Add onions, season with salt, and cover. Cook, uncovering and stirring occasionally, until onions are softened and just beginning to take on color, about 5 minutes. Uncover, add ginger, and cook, stirring occasionally, until onions are jammy and golden brown, 10–12 minutes. Stir in soy sauce. Transfer onion mixture to a plate and wipe out skillet.",
+            "Pour remaining 1 Tbsp. oil into same skillet and increase heat to medium-high. Add potatoes in a single layer and season with salt. Cook, turning halfway through, until golden brown, 10–12 minutes.",
+            "Spread onion mixture over potatoes, leaving a 1\" border of potatoes without onion mixture. Season fish with salt and place on top of onion mixture. Cover and reduce heat to medium-low. Cook until fish is opaque throughout and easily flakes apart, 10–12 minutes. Serve topped with scallions and furikake (if using)."
+        ]
+    },
+    {
+        "recipeId": 8,
+        "title": "Braised Oxtails With Coconut Rice",
+        "author": "Kwame Onwuachi",
+        "image": "https://assets.bonappetit.com/photos/5eab53c6eee08767a7c6ab62/16:9/w_1028,c_limit/Kwame-Braised-Oxtails.jpg",
+        "mini_description": "Spoon-tender meat, silky beans, and sweet, sticky rice give this Jamaican dish the equivalent feel of a “warm hug,” according to chef Kwame Onwuachi.",
+        "full_description": "“A bowl of oxtails is like a warm hug from my childhood,” says chef Kwame Onwuachi of Kith/Kin restaurant in D.C. “It’s my favorite Jamaican dish, and a good reminder of how complex and flavorful our food is.” Don’t rule out this recipe just because you can’t find oxtails. Any fatty and rich bone-in braising cut, from short ribs to duck legs, would be a great substitute; just be prepared to shorten the cook time.",
+        "ingredients": [
+            {
+                "productName": "oxtails",
+                "qty": "2",
+                "productId": 1,
+                "productHash": 4469150791069924
+            },
+            {
+                "productName": "curry",
+                "qty": "2",
+                "productId": 2,
+                "productHash": 286044057660412
+            },
+            {
+                "productName": "oil",
+                "qty": "2",
+                "productId": 3,
+                "productHash": 4523193436840809
+            },
+            {
+                "productName": "chiken broth",
+                "qty": "4",
+                "productId": 4,
+                "productHash": 1809843714494508
+            },
+            {
+                "productName": "scallions",
+                "qty": "1",
+                "productId": 5,
+                "productHash": 7718552974416585
+            },
+            {
+                "productName": "garlic",
+                "qty": "3",
+                "productId": 6,
+                "productHash": 5671161195295897
+            },
+            {
+                "productName": "brown sugar",
+                "qty": "4",
+                "productId": 7,
+                "productHash": 8134822373408714
+            },
+            {
+                "productName": "peas",
+                "qty": "3",
+                "productId": 8,
+                "productHash": 5138703893952127
+            }
+        ],
+        "steps": [
+            "Blend chopped shallots, garlic, ⅓ cup fish sauce, ⅓ cup lime juice, and 2 Tbsp. brown sugar in a blender until smooth.",
+            "Season steaks lightly with salt (the fish sauce will also season the steaks). Transfer to a large bowl or a baking dish. Pour marinade over and turn steaks with tongs to coat evenly. Let sit at room temperature 1 hour, or cover and chill up to 12 hours, turning once (halfway through if you can).",
+            "Preheat a grill to high heat. Grill steaks, turning every minute or 2, until lightly charred and crisp and an instant-read thermometer inserted into the thickest part registers 140°, 7–9 minutes. Transfer steaks to a cutting board and let rest at least 5 minutes before thinly slicing.",
+            "Meanwhile, mix chiles, remaining 3 Tbsp. fish sauce, remaining 3 Tbsp. lime juice, remaining 1 Tbsp. brown sugar, and 1 Tbsp. water in a large bowl to combine. Add sliced shallots and herbs and toss to coat; season lightly with salt.",
+            "Arrange sliced meat on a platter and scatter herb salad over."
+        ]
+    },
+    {
+        "recipeId": 9,
+        "title": "Bulgogi Meatloaf Sandwich",
+        "author": "Chris Morocco",
+        "image": "https://assets.bonappetit.com/photos/5eb9a107cc3f5a6f2266b245/16:9/w_1024,c_limit/Bulgogi-Meatloaf-Sandwich-Recipe-lede-NEW.jpg",
+        "mini_description": "A flavor-packed spicy, sweet, and sour sandwich that takes the idea of meatloaf all the way to the edge.",
+        "full_description": "We thought about just how much flavor we could pack into meatloaf. The result: We took the ingredients you might often find in bulgogi marinade and used them to create a spicy, sweet, and sour combination that takes this sandwich right to the edge.",
+        "ingredients": [
+            {
+                "productName": "oil",
+                "qty": "2",
+                "productId": 1,
+                "productHash": 4523193436840809
+            },
+            {
+                "productName": "eggs",
+                "qty": "2",
+                "productId": 2,
+                "productHash": 7677450090393554
+            },
+            {
+                "productName": "apple",
+                "qty": "1",
+                "productId": 3,
+                "productHash": 2006698009046918
+            },
+            {
+                "productName": "scallions",
+                "qty": "6",
+                "productId": 4,
+                "productHash": 7718552974416585
+            },
+            {
+                "productName": "garlic cloves",
+                "qty": "4",
+                "productId": 5,
+                "productHash": 1980625868581449
+            },
+            {
+                "productName": "ginger",
+                "qty": "1",
+                "productId": 6,
+                "productHash": 8428138217357581
+            },
+            {
+                "productName": "gochugaru",
+                "qty": "2",
+                "productId": 7,
+                "productHash": 8544862591005535
+            },
+            {
+                "productName": "soy sauce",
+                "qty": "1",
+                "productId": 8,
+                "productHash": 1829651956510869
+            },
+            {
+                "productName": "panko",
+                "qty": "2",
+                "productId": 9,
+                "productHash": 3864328872277759
+            }
+        ],
+        "steps": [
+            "Heat 2 Tbsp. oil in a large skillet over medium. Add onions, season with salt, and cover. Cook, uncovering and stirring occasionally, until onions are softened and just beginning to take on color, about 5 minutes. Uncover, add ginger, and cook, stirring occasionally, until onions are jammy and golden brown, 10–12 minutes. Stir in soy sauce. Transfer onion mixture to a plate and wipe out skillet.",
+            "Pour remaining 1 Tbsp. oil into same skillet and increase heat to medium-high. Add potatoes in a single layer and season with salt. Cook, turning halfway through, until golden brown, 10–12 minutes.",
+            "Spread onion mixture over potatoes, leaving a 1\" border of potatoes without onion mixture. Season fish with salt and place on top of onion mixture. Cover and reduce heat to medium-low. Cook until fish is opaque throughout and easily flakes apart, 10–12 minutes. Serve topped with scallions and furikake (if using)."
+        ]
+    },
+    {
+        "recipeId": 10,
+        "title": "Spring Panzanella",
+        "author": "Molly Baz",
+        "image": "https://assets.bonappetit.com/photos/5e9dd45246b6ce0009fd8621/16:9/w_1024,c_limit/Spring-Panzanella-Salad-3.jpg",
+        "mini_description": "This herbaceous, crunchy, green riff on the iconic bread and tomato salad features all of our favorite spring vegetables, plus a tangy buttermilk dressing.",
+        "full_description": "Don’t go for perfect grill marks here. Flip the steaks often so the fat renders evenly without overcooking the meat. And don’t sleep on that herb salad—it brings some freshness to the sticky-salty-sweet steaks.",
+        "ingredients": [
+            {
+                "productName": "garlic clove",
+                "qty": "1",
+                "productId": 1,
+                "productHash": 2410433425968939
+            },
+            {
+                "productName": "lemons",
+                "qty": "2",
+                "productId": 2,
+                "productHash": 5054391423761529
+            },
+            {
+                "productName": "buttermilk",
+                "qty": "2",
+                "productId": 3,
+                "productHash": 7921250955523607
+            },
+            {
+                "productName": "cucumber",
+                "qty": "1",
+                "productId": 4,
+                "productHash": 2571904277860676
+            },
+            {
+                "productName": "scallions",
+                "qty": "4",
+                "productId": 5,
+                "productHash": 7718552974416585
+            },
+            {
+                "productName": "peas",
+                "qty": "6",
+                "productId": 6,
+                "productHash": 5138703893952127
+            },
+            {
+                "productName": "feta",
+                "qty": "4",
+                "productId": 7,
+                "productHash": 2944502221244220
+            }
+        ],
+        "steps": [
+            "Blend chopped shallots, garlic, ⅓ cup fish sauce, ⅓ cup lime juice, and 2 Tbsp. brown sugar in a blender until smooth.",
+            "Season steaks lightly with salt (the fish sauce will also season the steaks). Transfer to a large bowl or a baking dish. Pour marinade over and turn steaks with tongs to coat evenly. Let sit at room temperature 1 hour, or cover and chill up to 12 hours, turning once (halfway through if you can).",
+            "Preheat a grill to high heat. Grill steaks, turning every minute or 2, until lightly charred and crisp and an instant-read thermometer inserted into the thickest part registers 140°, 7–9 minutes. Transfer steaks to a cutting board and let rest at least 5 minutes before thinly slicing.",
+            "Meanwhile, mix chiles, remaining 3 Tbsp. fish sauce, remaining 3 Tbsp. lime juice, remaining 1 Tbsp. brown sugar, and 1 Tbsp. water in a large bowl to combine. Add sliced shallots and herbs and toss to coat; season lightly with salt.",
+            "Arrange sliced meat on a platter and scatter herb salad over."
+        ]
+    }
+]
